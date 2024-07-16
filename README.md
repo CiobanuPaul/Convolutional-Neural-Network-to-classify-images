@@ -1,5 +1,5 @@
 # Convolutional-Neural-Network-to-classify-images
-A Convolutional Neural Network which is trained using supervised learning on images and classifies them in three classes. It uses Keras, Pandas and other libraries.
+A Convolutional Neural Network which is trained using supervised learning on images and classifies them in three classes. It uses image augumentation. Libraries involved: Keras, Pandas and others.
 
 Images were converted to numpy.array and normalized with values between [0,1].
 Applied to_categorical to labels, which transforms them into one-hot encoded vectors.
